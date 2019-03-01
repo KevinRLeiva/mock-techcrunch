@@ -1,0 +1,318 @@
+*{
+  box-sizing: border-box;
+}
+.headerSize{
+  height: 100px;
+  width: 100%;
+  clear:both;
+}
+.logoBorder{
+  height: 99px;
+  width: 13%;
+  float: left;
+}
+.logoSize{
+  height: 93px;
+  width: auto;
+  float: left;
+  margin-left: 8px;
+  margin-top: -20px;
+}
+.usKnow{
+  height: 49px;
+  width: 53%;
+  float: left;
+}
+.tipYes{
+  height: auto;
+  width: auto;
+  float: left;
+  color: gray;
+  font-size: 18px;
+  margin-top: 8px;
+  margin-left: 112px;
+}
+.knowLet{
+  text-decoration: none;
+  color: green;
+}
+.navSize{
+  height: 49px;
+  width: 53%;
+  float: left;
+}
+ul li{
+  list-style: none;
+}
+.links{
+  height: auto;
+  width: auto;
+  float: left;
+  margin-left: 77px;
+  font-size: 22px;
+}
+.social{
+  height: 49px;
+  width: 34%;
+  float: left;
+  margin-top: -49px;
+}
+.usFollow{
+  height: auto;
+  width: auto;
+  float: left;
+  color: gray;
+}
+.socialImg{
+  height: 15px;
+  width: auto;
+  float: left;
+  margin-left: 31px;
+}
+.messageMe{
+  height: 49px;
+  width: 34%;
+  float: left;
+}
+.messageBlack{
+  height: 40px;
+  width: 35%;
+  float: left;
+  background-color: black;
+}
+.messageIcon{
+  height: 20px;
+  width: auto;
+  float: left;
+  margin-top: 11px;
+  margin-left: 8px;
+}
+.messUs{
+  height: auto;
+  width: auto;
+  float: left;
+  font-size: 20px;
+  color: white;
+  margin-top: 8px;
+  margin-left: 13px;
+}
+.searchIcon{
+  height: auto;
+  width: auto;
+  float: left;
+  margin-top: 14px;
+}
+.searchIcon{
+  height: 20px;
+  width: auto;
+  float: left;
+  margin-left: 14px;
+}
+.annualCr{
+  height: 54px;
+  width: 100%;
+  float: left;
+  background-color: green;
+}
+.annualCrunch{
+  height: auto;
+  width: auto;
+  float: left;
+  margin-left: 369px;
+  color: white;
+}
+.brooklynSta{
+  height: auto;
+  width: auto;
+  float: left;
+  margin-left: 67px;
+  margin-top: 20px;
+  color: gray;
+}
+.ticketsToday{
+  text-decoration: none;
+  color: white;
+}
+.webPage{
+  height: 658px;
+  width: 100%;
+  float: left;
+}
+.videoPart{
+  height: 599px;
+  width: 50%;
+  float: left;
+}
+.nowWatch{
+  height: auto;
+  width: auto;
+  float: left;
+  margin-left: 15px;
+}
+.crunchReport{
+  text-decoration: none;
+  color: green;
+}
+.reportIs{
+  height: auto;
+  width: auto;
+  float: left;
+  color: gray;
+  margin-left: 10px;
+}
+.featuredStories{
+  height: 599px;
+  width: 25%;
+  float: left;
+}
+.techImg{
+  height: 92px;
+  width: auto;
+  float: left;
+  margin-top: -16px;
+  margin-left: -42px;
+}
+.techImg2{
+  height: 107px;
+  width: auto;
+  float: left;
+  margin-left: -40px;
+  margin-top: 8px;
+}
+.techImg3{
+  height: 92px;
+  width: auto;
+  float: left;
+  margin-left: -40px;
+  margin-top: 8px;
+}
+.techImg4{
+  height: 107px;
+  width: auto;
+  float: left;
+  margin-left: -40px;
+  margin-top: 8px;
+}
+.textSize{
+  height: auto;
+  width: auto;
+  font-size: 22px;
+  float: left;
+  margin-top: 16px;
+  margin-left: -25px;
+}
+.guestCol{
+  height: auto;
+  width: auto;
+  float: left;
+  margin-left: 60px;
+}
+.byPeople{
+  height: auto;
+  width: auto;
+  float: left;
+  color: gray;
+  margin-top: -27px;
+  margin-left: -23px;
+  font-size: 15px;
+}
+.linkFix{
+  text-decoration: none;
+  color: black;
+}
+.tipTech{
+  background-color: gray;
+  height: 599px;
+  width: 25%;
+  border: 2px solid green;
+  float: left;
+}
+.watchNow{
+  height: 80px;
+  width: 100%;
+  float: left;
+}
+.videoHolder{
+  height: 380px;
+  width: 98%;
+  border: 2px solid black;
+  float: left;
+  margin-left: 9px;
+}
+.stories{
+  height: 80px;
+  width: 100%;
+  float: left;
+}
+.split{
+  height: 514px;
+  width: 40%;
+  float: left;
+}
+.textBorder{
+  height: 514px;
+  width: 60%;
+  float: left;
+}
+.techTip{
+  height: 112px;
+  width: 100%;
+  float: left;
+}
+.tipNo{
+  text-decoration: none;
+  color: green;
+}
+.newsLetter{
+  background-color: green;
+  height: 70px;
+  width: 90%;
+  float: left;
+  margin-left: 20px;
+}
+.latesStar{
+  color: gray;
+  float: left;
+  margin-top: -19px;
+  font-size: 14px;
+}
+.borderBottom{
+  border-bottom: 2px solid gray;
+}
+.letterNews{
+  height: auto;
+  width: auto;
+  float: left;
+  color: white;
+  margin-left: 30px;
+}
+.theDaily{
+  background-color: white;
+  height: 377px;
+  width: 90%;
+  float: left;
+  margin-left: 20px;
+}
+.allSee{
+  text-decoration: none;
+  float: left;
+  margin-left: 66px;
+}
+.emailSec{
+  height: auto;
+  width: auto;
+  margin-top: 17px;
+  margin-left: 43px;
+  float: left;
+}
+.plsSub{
+  height: auto;
+  width: auto;
+  float: left;
+}
+.checkbox{
+  height: auto;
+  width: auto;
+  float: left;
+  margin-left: -10px;
+}
